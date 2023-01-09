@@ -6,3 +6,11 @@ This application is a search engine for books. The user is presented with a sear
 Behind the scenes, it consists of a Google Books API search engine, built with a RESTful API, which is then refactored to be a GraphQL API with Apollo Server. It is a full-stack MERN application (MongoDB-Express.js-React-Node.js), deployed to Heroku with a MongoDB database using MongoDB Atlas.
 
 ## Deployed Link
+https://cinosargo22.github.io/MERN-Challenge-Book-Search-Engine/
+
+## Installation
+
+Type 'npm run build' in the Terminal
+
+Type 'npm start' 
+
